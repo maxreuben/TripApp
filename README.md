@@ -1,4 +1,4 @@
-# <img src="https://github.com/maxreuben/TripApp/assets/28548154/1235eb2a-2bad-4ac1-9139-fc10403aedf6" alt="TravelApp" title="TravelApp" width="50" height="50"/> TripApp
+# <img src="https://github.com/maxreuben/TripApp/blob/main/TripApp/Assets.xcassets/AppIcon.appiconset/TravelApp.png" alt="TripApp.png" title="TripApp" width="50" height="50"/> TripApp
 
 * This app lets you create destinations, add
 activities for each day, and attach photos.

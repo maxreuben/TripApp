@@ -1,4 +1,4 @@
-# TripApp ![TravelApp](https://github.com/maxreuben/TripApp/assets/28548154/1235eb2a-2bad-4ac1-9139-fc10403aedf6){:height=200 :width=200}
+# TripApp <img src="https://github.com/maxreuben/TripApp/assets/28548154/1235eb2a-2bad-4ac1-9139-fc10403aedf6" alt="TravelApp" title="TravelApp" width="200" height="200"/>
 
 * This app lets you create destinations, add
 activities for each day, and attach photos.

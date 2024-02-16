@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "slc.dining.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

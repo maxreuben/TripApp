@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "vt.magic.hat.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

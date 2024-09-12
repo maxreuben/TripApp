@@ -6,6 +6,5 @@ activities for each day, and attach photos.
 * PhotosUI integration
 * MapKit integration
 * Glassmorphism design
-* MVC-like pattern
 
 ![image](https://github.com/maxreuben/TripApp/assets/28548154/d82f4db3-d1a0-4be2-9763-3d16d8db92d6)
